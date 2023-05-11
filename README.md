@@ -1,4 +1,7 @@
-### Hi there 👋
+ ### Hi I'm Luis J. Jimenez 👋
+
+![luis-fullstack](https://github.com/LuisJCana/LuisJCana/assets/110641100/a9a2501d-e357-4176-814d-5c85f417fe88)
+
 
 <!--
 **LuisJCana/LuisJCana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
