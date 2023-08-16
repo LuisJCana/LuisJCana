@@ -6,7 +6,7 @@ Hello! I'm a full-stack developer with a background in Electronic Engineering an
 
 Currently, I have the privilege of advising companies on optimizing their sales by intelligently harnessing digital platforms. This position allows me to blend my technical know-how with effective business strategies, assisting companies in navigating the ever-changing digital landscape and significantly expanding their online presence.
 
-I'm also drawn to two fields that I find utterly fascinating: blockchain technology and artificial intelligence. Blockchain technology amazes me with its potential to create secure, decentralized systems,
+I'm also drawn to two fields that I find utterly fascinating: blockchain technology and artificial intelligence. Blockchain technology amazes me with its potential to create secure, decentralized systems.
 
 I plan to continue exploring new technologies, learning continuously, and building impactful digital solutions. My goal is to keep advising companies on their digital journey while also further expanding my knowledge in areas like artificial intelligence and blockchain technology.
 
